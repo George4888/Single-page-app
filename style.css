@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css?family=McLaren&display=swap");
+
+body {
+  font-family: "McLaren", cursive;
+}
+
+.container-xl {
+  max-width: 1270px;
+}
+
+.show-page {
+  display: block;
+}
+
+.hide-page {
+  display: none;
+}
+
+.card {
+  border: none;
+}
+
+.card-footer {
+  border: none;
+}
+
+.show {
+  display: block;
+}
+
+.hide {
+  display: none;
+}
+
+.show-basic {
+  display: block;
+}
+
+.hide-basic {
+  display: none;
+}
+
+.show-pro {
+  display: block;
+}
+
+.hide-pro {
+  display: none;
+}
+
+.show-pre {
+  display: block;
+}
+
+.hide-pre {
+  display: none;
+}
